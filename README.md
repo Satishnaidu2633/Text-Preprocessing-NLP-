@@ -93,7 +93,7 @@ After preprocessing, the dataset becomes ready for downstream NLP tasks such as:
 
 ## 📬 Contact
 
-If you have any questions or suggestions, feel free to connect with me on [LinkedIn](https://www.linkedin.com).
+If you have any questions or suggestions, feel free to connect with me on https://www.linkedin.com/in/satishnaiduvulli/
 
 ---
 
